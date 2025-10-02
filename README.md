@@ -3,13 +3,13 @@
 >The ISRUC-Sleep dataset is available [here](https://sleeptight.isr.uc.pt).
 ## Requirements
 
--Python 3.10
-*CUDA 12.1
-+cuDNN 8.9.2
--PyTorch 2.1.2
-*scipy 1.14.1
-+scikit-learn 1.5.1
-*mne 1.5.0
+- Python 3.10
+* CUDA 12.1
++ cuDNN 8.9.2
+- PyTorch 2.1.2
+* scipy 1.14.1
++ scikit-learn 1.5.1
+* mne 1.5.0
 
 ## Preprocess
 >Run ISRUC_S3_preprocess.py
